@@ -1,0 +1,336 @@
+[17:49:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[17:49:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-a8a1-11c01849e498]
+[17:49:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:49:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:49:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-a8a1-11c01849e498]
+[17:49:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:49:23] [main/INFO]: Reloading ResourceManager: Default
+[17:49:24] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:49:25] [Worker-Main-2/INFO]: Loaded 927 advancements
+[17:49:27] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[17:49:27] [Server thread/INFO]: Loading properties
+[17:49:27] [Server thread/INFO]: Default game type: SURVIVAL
+[17:49:27] [Server thread/INFO]: Generating keypair
+[17:49:28] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[17:49:28] [Server thread/INFO]: Using epoll channel type
+[17:49:28] [Server thread/INFO]: Preparing level "world"
+[17:49:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:49:34] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[17:49:40] [Worker-Main-3/INFO]: Preparing spawn area: 81%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 81%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 81%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 81%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 81%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 81%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 82%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 82%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 82%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 82%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 82%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 82%
+[17:49:40] [Server thread/INFO]: Preparing spawn area: 82%
+[17:49:41] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:41] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:42] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:42] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:43] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:43] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:44] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:44] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[17:49:45] [Worker-Main-3/INFO]: Preparing spawn area: 84%
+[17:49:45] [Server thread/INFO]: Preparing spawn area: 84%
+[17:49:46] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[17:49:46] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[17:49:47] [Worker-Main-3/INFO]: Preparing spawn area: 88%
+[17:49:47] [Server thread/INFO]: Preparing spawn area: 89%
+[17:49:48] [Server thread/INFO]: Preparing spawn area: 90%
+[17:49:48] [Worker-Main-7/INFO]: Preparing spawn area: 92%
+[17:49:49] [Worker-Main-7/INFO]: Preparing spawn area: 94%
+[17:49:49] [Worker-Main-7/INFO]: Preparing spawn area: 97%
+[17:49:50] [Server thread/INFO]: Time elapsed: 21452 ms
+[17:49:50] [Server thread/INFO]: Done (21.672s)! For help, type "help"
+[17:51:38] [Server thread/INFO]: /advancement (grant|revoke)
+[17:51:38] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[17:51:38] [Server thread/INFO]: /ban <targets> [<reason>]
+[17:51:38] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[17:51:38] [Server thread/INFO]: /banlist [ips|players]
+[17:51:38] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[17:51:38] [Server thread/INFO]: /clear [<targets>]
+[17:51:38] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[17:51:38] [Server thread/INFO]: /data (get|merge|modify|remove)
+[17:51:38] [Server thread/INFO]: /datapack (disable|enable|list)
+[17:51:38] [Server thread/INFO]: /debug (report|start|stop)
+[17:51:38] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[17:51:38] [Server thread/INFO]: /deop <targets>
+[17:51:38] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[17:51:38] [Server thread/INFO]: /effect (clear|give)
+[17:51:38] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[17:51:38] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[17:51:38] [Server thread/INFO]: /experience (add|query|set)
+[17:51:38] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[17:51:38] [Server thread/INFO]: /forceload (add|query|remove)
+[17:51:38] [Server thread/INFO]: /function <name>
+[17:51:38] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[17:51:38] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[17:51:38] [Server thread/INFO]: /give <targets> <item> [<count>]
+[17:51:38] [Server thread/INFO]: /help [<command>]
+[17:51:38] [Server thread/INFO]: /kick <targets> [<reason>]
+[17:51:38] [Server thread/INFO]: /kill [<targets>]
+[17:51:38] [Server thread/INFO]: /list [uuids]
+[17:51:38] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[17:51:38] [Server thread/INFO]: /locatebiome <biome>
+[17:51:38] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[17:51:38] [Server thread/INFO]: /me <action>
+[17:51:38] [Server thread/INFO]: /msg <targets> <message>
+[17:51:38] [Server thread/INFO]: /op <targets>
+[17:51:38] [Server thread/INFO]: /pardon <targets>
+[17:51:38] [Server thread/INFO]: /pardon-ip <target>
+[17:51:38] [Server thread/INFO]: /particle <name> [<pos>]
+[17:51:38] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[17:51:38] [Server thread/INFO]: /recipe (give|take)
+[17:51:38] [Server thread/INFO]: /reload
+[17:51:38] [Server thread/INFO]: /replaceitem (block|entity)
+[17:51:38] [Server thread/INFO]: /save-all [flush]
+[17:51:38] [Server thread/INFO]: /save-off
+[17:51:38] [Server thread/INFO]: /save-on
+[17:51:38] [Server thread/INFO]: /say <message>
+[17:51:38] [Server thread/INFO]: /schedule (clear|function)
+[17:51:38] [Server thread/INFO]: /scoreboard (objectives|players)
+[17:51:38] [Server thread/INFO]: /seed
+[17:51:38] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[17:51:38] [Server thread/INFO]: /setidletimeout <minutes>
+[17:51:38] [Server thread/INFO]: /setworldspawn [<pos>]
+[17:51:38] [Server thread/INFO]: /spawnpoint [<targets>]
+[17:51:38] [Server thread/INFO]: /spectate [<target>]
+[17:51:38] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[17:51:38] [Server thread/INFO]: /stop
+[17:51:38] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[17:51:38] [Server thread/INFO]: /summon <entity> [<pos>]
+[17:51:38] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[17:51:38] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[17:51:38] [Server thread/INFO]: /teammsg <message>
+[17:51:38] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[17:51:38] [Server thread/INFO]: /tell -> msg
+[17:51:38] [Server thread/INFO]: /tellraw <targets> <message>
+[17:51:38] [Server thread/INFO]: /time (add|query|set)
+[17:51:38] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[17:51:38] [Server thread/INFO]: /tm -> teammsg
+[17:51:38] [Server thread/INFO]: /tp -> teleport
+[17:51:38] [Server thread/INFO]: /trigger <objective> [add|set]
+[17:51:38] [Server thread/INFO]: /w -> msg
+[17:51:38] [Server thread/INFO]: /weather (clear|rain|thunder)
+[17:51:38] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[17:51:38] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[17:51:38] [Server thread/INFO]: /xp -> experience
+[17:58:56] [User Authenticator #1/INFO]: UUID of player boneappletea is 01582778-1d51-be90-15835f41da65
+[17:58:56] [Server thread/INFO]: boneappletea[/75.185.138.22:45880] logged in with entity id 48 at (-7.5, 64.0, 133.5)
+[17:58:56] [Server thread/INFO]: boneappletea joined the game
+[18:02:15] [Server thread/INFO]: boneappletea was slain by Zombie
+[18:02:51] [User Authenticator #2/INFO]: UUID of player gardensnek is 9b186548-461b-9d8c-4164e6d69b91
+[18:02:51] [Server thread/INFO]: gardensnek[/72.23.251.202:54309] logged in with entity id 670 at (-8.5, 64.0, 136.5)
+[18:02:51] [Server thread/INFO]: gardensnek joined the game
+[18:08:11] [Server thread/INFO]: gardensnek has made the advancement [Stone Age]
+[18:08:27] [Server thread/INFO]: gardensnek has made the advancement [Getting an Upgrade]
+[18:09:05] [Server thread/INFO]: boneappletea has made the advancement [Stone Age]
+[18:13:22] [Server thread/INFO]: boneappletea was slain by gardensnek
+[18:15:51] [Server thread/INFO]: boneappletea has made the advancement [Getting an Upgrade]
+[18:17:50] [Server thread/INFO]: boneappletea has made the advancement [Monster Hunter]
+[18:18:55] [Server thread/INFO]: boneappletea was slain by Zombie
+[18:20:45] [Server thread/INFO]: boneappletea was shot by Skeleton
+[18:21:48] [Server thread/INFO]: boneappletea was shot by Skeleton
+[18:22:50] [Server thread/INFO]: boneappletea was slain by Spider
+[18:23:45] [Server thread/INFO]: boneappletea was slain by Spider
+[18:26:16] [Server thread/INFO]: gardensnek has made the advancement [Monster Hunter]
+[18:31:47] [Server thread/INFO]: gardensnek drowned
+[18:34:58] [Server thread/INFO]: gardensnek has made the advancement [Sweet Dreams]
+[18:35:26] [Server thread/INFO]: boneappletea was shot by Skeleton
+[18:36:04] [Server thread/INFO]: boneappletea was shot by Skeleton
+[18:42:40] [Server thread/INFO]: boneappletea has made the advancement [Acquire Hardware]
+[18:42:44] [Server thread/INFO]: gardensnek has made the advancement [Acquire Hardware]
+[18:52:17] [Server thread/INFO]: gardensnek fell from a high place
+[19:11:04] [Server thread/INFO]: boneappletea has made the advancement [Isn't It Iron Pick]
+[19:11:04] [Server thread/INFO]: boneappletea has made the advancement [Suit Up]
+[19:14:32] [Server thread/INFO]: gardensnek has made the advancement [A Seedy Place]
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -9.450824751154926,0.0,3.6773201493289775
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -9.778734186008933,0.0,3.8907791420790545
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -10.10621920984255,0.0,4.106395571245571
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -10.433541657289453,0.0,4.3236485583324225
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -10.760912346728617,0.0,4.542098699658027
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -11.088499128615581,0.0,4.761377344696314
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -11.416433968792973,0.0,4.981176806885628
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -11.744819178183462,0.0,5.201241443460674
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -12.073732904029299,0.0,5.421359532306724
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -12.403231859185325,0.0,5.641359107136168
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -12.733353748680258,0.0,5.861104170032206
+[19:19:51] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! -2.40649482081416,0.0,9.731551383089482
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -13.064123570067636,0.0,6.080484806320612
+[19:19:51] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! -2.4245140434282177,0.0,10.09627581262896
+[19:19:51] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! -13.361816401430104,0.0,6.277927373749719
+[19:19:51] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! -2.439623184040144,0.0,10.464512329670015
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 5.13367176852671,0.0,-9.01374405701307
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 5.285448972534084,0.0,-9.381542550619542
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 5.4328758001582855,0.0,-9.75106792121261
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 5.576124924396225,0.0,-10.122220288126016
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 5.716049885244075,0.0,-10.494714963332854
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 5.854040647568553,0.0,-10.868099345212272
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 5.9918919119126315,0.0,-11.24174070107739
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 6.131041894103106,0.0,-11.615064873934045
+[19:24:52] [Server thread/WARN]: boneappletea moved too quickly! -6.038833697624568,1.0,-7.934388014562728
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 6.27261964506522,0.0,-11.987565713501454
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 6.417501507910373,0.0,-12.358803714463193
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 6.56635076089367,0.0,-12.728405811622451
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 6.719649453437512,0.0,-13.096064573418403
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 6.877736610196649,0.0,-13.461529872773554
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 7.040828598310867,0.0,-13.824607030945742
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 7.209043677304209,0.0,-14.185150073149998
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 7.382420333313149,0.0,-14.543056519160189
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 7.560933390598507,0.0,-14.898261826857947
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 7.744505025034272,0.0,-15.250735877817931
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 7.933020677689825,0.0,-15.60047489322585
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 8.126333708062589,0.0,-15.947500301208777
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 8.324275650485305,0.0,-16.291852956511434
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 8.526662142422367,0.0,-16.633589875355767
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 8.733298131413903,0.0,-16.97278109564934
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 8.94398244025345,0.0,-17.309506657457405
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 9.158508766892908,0.0,-17.64385612805296
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 9.376672528057725,0.0,-17.975923303644606
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 9.598267951143754,0.0,-18.305808520845915
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 9.823094377132122,0.0,-18.633613457780598
+[19:24:52] [Server thread/WARN]: Boat (vehicle of gardensnek) moved too quickly! 10.0509588635733,0.0,-18.959438759169416
+[19:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[19:25:04] [Server thread/WARN]: boneappletea was kicked for floating too long!
+[19:25:04] [Server thread/INFO]: boneappletea lost connection: Flying is not enabled on this server
+[19:25:04] [Server thread/INFO]: boneappletea left the game
+[19:25:26] [User Authenticator #3/INFO]: UUID of player boneappletea is 01582778-1d51-be90-15835f41da65
+[19:25:27] [Server thread/INFO]: boneappletea[/75.185.138.22:46732] logged in with entity id 29653 at (-213.69190404728258, 62.07326327205697, 752.8361030646573)
+[19:25:27] [Server thread/INFO]: boneappletea joined the game
+[19:30:07] [Server thread/INFO]: gardensnek fell from a high place
+[19:30:48] [User Authenticator #4/INFO]: UUID of player goldenstonks is 1c20f32c-1063-9894-9b6d66905c77
+[19:30:48] [Server thread/INFO]: goldenstonks[/99.203.15.69:19917] logged in with entity id 32206 at (1.5, 63.0, 124.5)
+[19:30:48] [Server thread/INFO]: goldenstonks joined the game
+[19:33:25] [Server thread/INFO]: goldenstonks has made the advancement [Stone Age]
+[19:33:40] [Server thread/INFO]: goldenstonks has made the advancement [Getting an Upgrade]
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 0.537297101618833,0.0,-10.065439616701951
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 0.6614911301425082,0.0,-10.418449567976722
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 0.7908692973711595,0.0,-10.766409387261774
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 0.9277057525999908,0.0,-11.113982497188545
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 1.0715048424466431,0.0,-11.461058046725384
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 1.2217964880089767,0.0,-11.807548459096552
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 1.3781338937750434,0.0,-12.153387577467356
+[19:34:54] [Server thread/WARN]: Boat (vehicle of boneappletea) moved too quickly! 1.518837555237269,0.0,-12.464642775755692
+[19:35:11] [Server thread/INFO]: goldenstonks was slain by gardensnek
+[19:35:32] [Server thread/INFO]: boneappletea drowned
+[19:36:11] [Server thread/INFO]: goldenstonks fell from a high place
+[19:38:04] [Server thread/INFO]: gardensnek was shot by Skeleton
+[19:42:14] [Server thread/INFO]: boneappletea was blown up by Creeper
+[19:45:06] [User Authenticator #5/INFO]: UUID of player boats4life is b8757901-ead8-8948-d16c505956ec
+[19:45:06] [Server thread/INFO]: boats4life[/75.185.138.218:63488] logged in with entity id 37852 at (-10.5, 63.0, 129.5)
+[19:45:06] [Server thread/INFO]: boats4life joined the game
+[19:45:19] [Server thread/INFO]: goldenstonks has made the advancement [Monster Hunter]
+[19:48:22] [Server thread/INFO]: boats4life has made the advancement [Acquire Hardware]
+[19:49:45] [Server thread/INFO]: goldenstonks has made the advancement [Acquire Hardware]
+[19:49:51] [Server thread/INFO]: goldenstonks has made the advancement [Isn't It Iron Pick]
+[19:53:58] [Server thread/INFO]: goldenstonks has made the advancement [Suit Up]
+[19:54:01] [Server thread/INFO]: boneappletea lost connection: Disconnected
+[19:54:01] [Server thread/INFO]: boneappletea left the game
+[19:54:09] [Server thread/INFO]: boats4life has made the advancement [Stone Age]
+[19:54:24] [Server thread/INFO]: gardensnek has made the advancement [Diamonds!]
+[19:54:43] [Server thread/INFO]: goldenstonks has made the advancement [Hot Stuff]
+[19:55:29] [Server thread/INFO]: boats4life was shot by Skeleton
+[19:56:10] [Server thread/INFO]: boats4life lost connection: Disconnected
+[19:56:10] [Server thread/INFO]: boats4life left the game
+[19:56:39] [Server thread/INFO]: gardensnek lost connection: Disconnected
+[19:56:39] [Server thread/INFO]: gardensnek left the game
+[19:58:28] [User Authenticator #6/INFO]: UUID of player boats4life is b8757901-ead8-8948-d16c505956ec
+[19:58:28] [Server thread/INFO]: boats4life[/75.185.138.218:63511] logged in with entity id 44030 at (34.23343347233472, 63.0, 193.40202164933197)
+[19:58:28] [Server thread/INFO]: boats4life joined the game
+[19:58:36] [Server thread/INFO]: <boats4life> i am steatlh
+[19:58:59] [Server thread/INFO]: <boats4life> a shadowy theif
+[19:59:09] [Server thread/INFO]: <goldenstonks> lol
+[19:59:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:00:13] [Server thread/INFO]: <boats4life> come to steal gardensnek's fire charges for my own gain
+[20:00:29] [Server thread/INFO]: <goldenstonks> i just escaped this cave and I'm tryna get food lol
+[20:00:30] [Server thread/INFO]: <boats4life> mwa hahahah
+[20:03:13] [User Authenticator #7/INFO]: UUID of player gardensnek is 9b186548-461b-9d8c-4164e6d69b91
+[20:03:13] [Server thread/INFO]: gardensnek[/72.23.251.202:54552] logged in with entity id 45385 at (95.6935291780299, 63.08576337286778, 180.79680560497127)
+[20:03:13] [Server thread/INFO]: gardensnek joined the game
+[20:03:52] [Server thread/INFO]: <boats4life> thats a lie
+[20:05:44] [Server thread/INFO]: goldenstonks has made the advancement [Fishy Business]
+[20:06:23] [Server thread/INFO]: gardensnek has made the advancement [Tactical Fishing]
+[20:10:32] [Server thread/INFO]: boats4life has made the advancement [Getting an Upgrade]
+[20:11:11] [Server thread/INFO]: gardensnek was poked to death by a sweet berry bush
+[20:12:41] [Server thread/INFO]: <boats4life> lol
+[20:12:52] [Server thread/INFO]: <gardensnek> Big oof
+[20:12:54] [Server thread/INFO]: <boats4life> :O
+[20:13:06] [Server thread/INFO]: boats4life has made the advancement [Suit Up]
+[20:14:52] [Server thread/INFO]: gardensnek has made the advancement [Suit Up]
+[20:15:50] [Server thread/INFO]: boats4life has made the advancement [Hot Stuff]
+[20:18:46] [Server thread/INFO]: goldenstonks has made the advancement [Take Aim]
+[20:18:53] [Server thread/INFO]: <boats4life> ebvbvbvbvbvbvbvbbvbvbvbvbvbvbvbvbvbvbvbvbvbvbvbvbvbvbvbvbvbv
+[20:18:57] [Server thread/INFO]: gardensnek has made the advancement [Ice Bucket Challenge]
+[20:19:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[20:20:18] [Server thread/INFO]: boats4life has made the advancement [Isn't It Iron Pick]
+[20:20:59] [Server thread/INFO]: boats4life has made the advancement [Sweet Dreams]
+[20:21:03] [Server thread/INFO]: <boats4life> zzz
+[20:21:14] [Server thread/INFO]: <boats4life> *sleeps*
+[20:21:17] [Server thread/INFO]: <boats4life> zzzz
+[20:21:19] [Server thread/INFO]: <boats4life> zzzz
+[20:21:21] [Server thread/INFO]: <boats4life> zzz
+[20:21:22] [Server thread/INFO]: <boats4life> zzz
+[20:21:23] [Server thread/INFO]: <boats4life> zzz
+[20:21:30] [Server thread/INFO]: <boats4life> :(
+[20:24:30] [Server thread/INFO]: gardensnek has made the advancement [Who is Cutting Onions?]
+[20:28:16] [Server thread/INFO]: gardensnek has made the advancement [We Need to Go Deeper]
+[20:32:01] [Server thread/INFO]: boats4life has made the advancement [Monster Hunter]
+[20:33:49] [Server thread/INFO]: boats4life hit the ground too hard
+[20:34:06] [Server thread/INFO]: boats4life lost connection: Disconnected
+[20:34:06] [Server thread/INFO]: boats4life left the game
+[20:34:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[20:36:30] [Server thread/INFO]: goldenstonks has made the advancement [Sweet Dreams]
+[20:37:39] [Server thread/INFO]: gardensnek lost connection: Disconnected
+[20:37:39] [Server thread/INFO]: gardensnek left the game
+[20:38:37] [Server thread/INFO]: goldenstonks lost connection: Disconnected
+[20:38:37] [Server thread/INFO]: goldenstonks left the game
+[21:25:35] [User Authenticator #8/INFO]: UUID of player boats4life is b8757901-ead8-8948-d16c505956ec
+[21:25:36] [Server thread/INFO]: boats4life[/75.185.138.218:63669] logged in with entity id 57415 at (-165.4381955982766, 58.0, 752.3000000119209)
+[21:25:36] [Server thread/INFO]: boats4life joined the game
+[21:31:49] [Server thread/INFO]: boats4life was slain by Zombie
+[21:41:45] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_265]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_265]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_265]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_265]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_265]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_265]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_265]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_265]
+	at zg$1.run(SourceFile:89) [server.jar:?]
+[21:41:45] [Server thread/INFO]: Stopping server
+[21:41:45] [Server thread/INFO]: Saving players
+[21:41:45] [Server thread/INFO]: boats4life lost connection: Server closed
+[21:41:45] [Server thread/INFO]: boats4life left the game
+[21:41:45] [Server thread/INFO]: Saving worlds
+[21:41:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:41:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:41:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:41:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:41:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:41:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:41:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
